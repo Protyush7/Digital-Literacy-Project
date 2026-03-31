@@ -14,9 +14,7 @@ Batch: 2025–2029
 
 ## Project Overview
 
-This repository contains the completed tasks for the Digital Literacy Project (Project 1). As a Student Digital Ambassador, I have developed a suite of digital assets and 
-
-professional profiles to demonstrate my proficiency in modern digital tools, professional communication, and cybersecurity awareness. 
+This repository contains the completed tasks for the Digital Literacy Project (Project 1). As a Student Digital Ambassador, I have developed a suite of digital assets and professional profiles to demonstrate my proficiency in modern digital tools, professional communication, and cybersecurity awareness. 
 
 ## Repository Structure
 
