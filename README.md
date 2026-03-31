@@ -18,19 +18,25 @@ This repository contains the completed tasks for the Digital Literacy Project (P
 
 ## Repository Structure
 
-### Folder Name: Description
 
-task-1-presentation: Contains the Digital Literacy Infographic (Purple/AI themed).
 
-task-2-portfolio: Contains professional profiles for LinkedIn and the GitHub README.
+### task-1-presentation:
+Contains the Digital Literacy Infographic (Purple/AI themed).
 
-task-3-platforms: Proof of coding skills (HackerRank Python Badge) and the Digital Literacy Awareness Google Form.
+### task-2-portfolio: 
+Contains professional profiles for LinkedIn and the GitHub README.
 
-task-4-email-etiquette: "Professional email drafts and a social media ""Do's and Don'ts"" checklist."
+### task-3-platforms: 
+Proof of coding skills (HackerRank Python Badge) and the Digital Literacy Awareness Google Form.
 
-task-5-cybercrime: A detailed case study on Phishing and an 8-point prevention checklist.
+### task-4-email-etiquette: 
+"Professional email drafts and a social media ""Do's and Don'ts"" checklist."
 
-report: The final consolidated Project Report in PDF format.
+### task-5-cybercrime: 
+A detailed case study on Phishing and an 8-point prevention checklist.
+
+### report: 
+The final consolidated Project Report in PDF format.
 
 ## Technical Skills Demonstrated
 
